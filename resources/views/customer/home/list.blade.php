@@ -78,7 +78,7 @@
                             </div>
                             <div class="featurs-content text-center">
                                 <h5>Free Shipping</h5>
-                                <p class="mb-0">Free on order over $300</p>
+                                <p class="mb-0">Free on order over 50000 MMK</p>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                                                    
                                                   {{-- <p>{{Str::words($item->description, 10, '...')}}</p> --}}
                                                     <div class="d-flex justify-content-between flex-lg-wrap">
-                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK /kg</p>
+                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK </p>
                                                     
                                                         <a></a>
 
@@ -272,7 +272,7 @@
                                                    
                                                   {{-- <p>{{Str::words($item->description, 10, '...')}}</p> --}}
                                                     <div class="d-flex justify-content-between flex-lg-wrap">
-                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK /kg</p>
+                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK</p>
                                                         {{-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> --}}
                                                         <a></a>
                                                     </div>

@@ -70,7 +70,7 @@
                                         </button>
                                     </div>
                                     <input type="text" class="form-control qty form-control-sm text-center border-0 qty"
-                                        value="{{$item->qty}} "> <span > kg</span>
+                                        value="{{$item->qty}} "> 
 
                                     <div class="input-group-btn">
                                         <button class="btn btn-sm btn-plus rounded-circle bg-light border" id="btn-plus">
