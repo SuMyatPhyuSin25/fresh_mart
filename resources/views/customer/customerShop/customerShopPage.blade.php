@@ -145,7 +145,7 @@
                                                 <img src="img/featur-1.jpg" class="img-fluid rounded" alt="">
                                             </div>
                                             <div>
-                                                <h6 class="mb-2">Big Banana</h6>
+                                                <h6 class="mb-2">Big Apple</h6>
                                                 <div class="d-flex mb-2">
                                                     <i class="fa fa-star text-secondary"></i>
                                                     <i class="fa fa-star text-secondary"></i>
@@ -154,8 +154,8 @@
                                                     <i class="fa fa-star"></i>
                                                 </div>
                                                 <div class="d-flex mb-2">
-                                                    <h5 class="fw-bold me-2">2.99 $</h5>
-                                                    <h5 class="text-danger text-decoration-line-through">4.11 $</h5>
+                                                    <h5 class="fw-bold me-2">5000 MMK</h5>
+                                                    <h5 class="text-danger text-decoration-line-through">6000 MMK</h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -164,7 +164,7 @@
                                                 <img src="img/featur-2.jpg" class="img-fluid rounded" alt="">
                                             </div>
                                             <div>
-                                                <h6 class="mb-2">Big Banana</h6>
+                                                <h6 class="mb-2">Big Strawberry</h6>
                                                 <div class="d-flex mb-2">
                                                     <i class="fa fa-star text-secondary"></i>
                                                     <i class="fa fa-star text-secondary"></i>
@@ -173,8 +173,8 @@
                                                     <i class="fa fa-star"></i>
                                                 </div>
                                                 <div class="d-flex mb-2">
-                                                    <h5 class="fw-bold me-2">2.99 $</h5>
-                                                    <h5 class="text-danger text-decoration-line-through">4.11 $</h5>
+                                                    <h5 class="fw-bold me-2">5000 MMK</h5>
+                                                    <h5 class="text-danger text-decoration-line-through">6000 MMK </h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -183,7 +183,7 @@
                                                 <img src="img/featur-3.jpg" class="img-fluid rounded" alt="">
                                             </div>
                                             <div>
-                                                <h6 class="mb-2">Big Banana</h6>
+                                                <h6 class="mb-2">Big Broccoli</h6>
                                                 <div class="d-flex mb-2">
                                                     <i class="fa fa-star text-secondary"></i>
                                                     <i class="fa fa-star text-secondary"></i>
@@ -192,8 +192,8 @@
                                                     <i class="fa fa-star"></i>
                                                 </div>
                                                 <div class="d-flex mb-2">
-                                                    <h5 class="fw-bold me-2">2.99 $</h5>
-                                                    <h5 class="text-danger text-decoration-line-through">4.11 $</h5>
+                                                    <h5 class="fw-bold me-2">6000 MMK</h5>
+                                                    <h5 class="text-danger text-decoration-line-through">7000 MMK</h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -230,7 +230,7 @@
                                                    
                                                   {{-- <p>{{Str::words($item->description, 10, '...')}}</p> --}}
                                                     <div class="d-flex justify-content-between flex-lg-wrap">
-                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK /kg</p>
+                                                        <p class="text-dark fs-5 fw-bold mb-0">{{$item->price}} MMK</p>
                                                         {{-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a> --}}
                                                         <a></a>
                                                     </div>

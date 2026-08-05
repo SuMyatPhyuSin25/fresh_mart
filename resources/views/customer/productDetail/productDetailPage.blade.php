@@ -55,7 +55,7 @@
                             <div class="col-lg-6">
                                 <h4 class="fw-bold mb-3">{{$productDetail->name}}</h4>
                                 <p class="mb-3">Category:{{$productDetail->category_name}}</p>
-                                <h5 class="fw-bold mb-3">{{$productDetail->price}} MMK/kg</h5>
+                                <h5 class="fw-bold mb-3">{{$productDetail->price}} MMK</h5>
                                 <div class="d-flex mb-4">
 
                                     <span>
