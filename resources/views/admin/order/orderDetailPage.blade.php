@@ -44,8 +44,8 @@
                                 <div class="row mb-3">
                                     <div class="col-5">Address :</div>
                                     <div class="col-7">
-                                     {{-- {{$paymentHistory->address}} --}}
-                                      {{$order[0]->address}}
+                                     {{$paymentHistory->address}}
+                                      {{-- {{$order[0]->address}} --}}
 
                                     </div>
                                 </div>
